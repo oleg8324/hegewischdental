@@ -1,0 +1,10 @@
+[12-Jun-2017 23:32:36 UTC] PHP Fatal error:  Class 'Walker' not found in /home/a312sites/public_html/hegewischdentist.com/wp-includes/class-walker-page-dropdown.php on line 17
+[12-Jun-2017 23:32:37 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/a312sites/public_html/hegewischdentist.com/wp-includes/feed-rss2.php on line 8
+[29-Jun-2017 00:50:28 UTC] PHP Fatal error:  Class 'Walker' not found in /home/a312sites/public_html/hegewischdentist.com/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Jun-2017 00:50:29 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/a312sites/public_html/hegewischdentist.com/wp-includes/feed-rss2.php on line 8
+[29-Jun-2017 02:42:46 UTC] PHP Fatal error:  Class 'Walker' not found in /home/a312sites/public_html/hegewischdentist.com/wp-includes/class-walker-page-dropdown.php on line 17
+[29-Jun-2017 02:42:46 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/a312sites/public_html/hegewischdentist.com/wp-includes/feed-rss2.php on line 8
+[30-Jun-2017 19:43:50 UTC] PHP Fatal error:  Class 'Walker' not found in /home/a312sites/public_html/hegewischdentist.com/wp-includes/class-walker-page-dropdown.php on line 17
+[30-Jun-2017 19:43:50 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/a312sites/public_html/hegewischdentist.com/wp-includes/feed-rss2.php on line 8
+[18-Jul-2017 23:32:37 UTC] PHP Fatal error:  Class 'Walker' not found in /home/a312sites/public_html/hegewischdentist.com/wp-includes/class-walker-page-dropdown.php on line 17
+[18-Jul-2017 23:32:38 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/a312sites/public_html/hegewischdentist.com/wp-includes/feed-rss2.php on line 8

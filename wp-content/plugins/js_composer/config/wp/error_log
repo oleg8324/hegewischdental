@@ -1,0 +1,5 @@
+[12-Jun-2017 23:32:32 UTC] PHP Fatal error:  Call to undefined function vc_post_param() in /home/a312sites/public_html/hegewischdentist.com/wp-content/plugins/js_composer/config/wp/shortcode-vc-wp-links.php on line 2
+[29-Jun-2017 00:50:25 UTC] PHP Fatal error:  Call to undefined function vc_post_param() in /home/a312sites/public_html/hegewischdentist.com/wp-content/plugins/js_composer/config/wp/shortcode-vc-wp-links.php on line 2
+[29-Jun-2017 02:42:42 UTC] PHP Fatal error:  Call to undefined function vc_post_param() in /home/a312sites/public_html/hegewischdentist.com/wp-content/plugins/js_composer/config/wp/shortcode-vc-wp-links.php on line 2
+[30-Jun-2017 19:43:47 UTC] PHP Fatal error:  Call to undefined function vc_post_param() in /home/a312sites/public_html/hegewischdentist.com/wp-content/plugins/js_composer/config/wp/shortcode-vc-wp-links.php on line 2
+[18-Jul-2017 23:32:33 UTC] PHP Fatal error:  Call to undefined function vc_post_param() in /home/a312sites/public_html/hegewischdentist.com/wp-content/plugins/js_composer/config/wp/shortcode-vc-wp-links.php on line 2

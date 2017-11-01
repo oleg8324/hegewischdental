@@ -1,0 +1,3 @@
+[12-Jun-2017 23:31:44 UTC] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/a312sites/public_html/hegewischdentist.com/wp-admin/includes/class-plugin-upgrader.php on line 21
+[18-Jul-2017 23:33:49 UTC] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/a312sites/public_html/hegewischdentist.com/wp-admin/includes/class-plugin-upgrader.php on line 21
+[26-Jul-2017 10:40:52 UTC] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/a312sites/public_html/hegewischdentist.com/wp-admin/includes/class-plugin-upgrader.php on line 21

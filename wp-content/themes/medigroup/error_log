@@ -1,0 +1,17 @@
+[28-Oct-2016 23:21:28 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_blog_archive_pages_classes() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/index.php on line 2
+[31-Oct-2016 08:25:15 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_blog_archive_pages_classes() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/index.php on line 2
+[12-Jun-2017 23:32:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/blog-standard-whole-post.php on line 6
+[12-Jun-2017 23:32:27 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_sidebar_layout() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/search.php on line 2
+[12-Jun-2017 23:32:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/single-doctor.php on line 3
+[29-Jun-2017 00:50:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/blog-standard-whole-post.php on line 6
+[29-Jun-2017 00:50:21 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_sidebar_layout() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/search.php on line 2
+[29-Jun-2017 00:50:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/single-doctor.php on line 3
+[29-Jun-2017 02:42:34 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/blog-standard-whole-post.php on line 6
+[29-Jun-2017 02:42:35 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_sidebar_layout() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/search.php on line 2
+[29-Jun-2017 02:42:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/single-doctor.php on line 3
+[30-Jun-2017 19:43:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/blog-standard-whole-post.php on line 6
+[30-Jun-2017 19:43:43 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_sidebar_layout() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/search.php on line 2
+[30-Jun-2017 19:43:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/single-doctor.php on line 3
+[18-Jul-2017 23:32:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/blog-standard-whole-post.php on line 6
+[18-Jul-2017 23:32:29 UTC] PHP Fatal error:  Call to undefined function medigroup_mikado_sidebar_layout() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/search.php on line 2
+[18-Jul-2017 23:32:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/medigroup/single-doctor.php on line 3

@@ -1,0 +1,5 @@
+[12-Jun-2017 23:32:24 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfourteen/comments.php on line 16
+[29-Jun-2017 00:50:18 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfourteen/comments.php on line 16
+[29-Jun-2017 02:42:33 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfourteen/comments.php on line 16
+[30-Jun-2017 19:43:42 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfourteen/comments.php on line 16
+[18-Jul-2017 23:32:26 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfourteen/comments.php on line 16

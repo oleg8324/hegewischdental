@@ -1,0 +1,10 @@
+[12-Jun-2017 23:32:28 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[12-Jun-2017 23:32:29 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/comments.php on line 18
+[29-Jun-2017 00:50:21 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[29-Jun-2017 00:50:22 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/comments.php on line 18
+[29-Jun-2017 02:42:36 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[29-Jun-2017 02:42:36 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/comments.php on line 18
+[30-Jun-2017 19:43:44 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[30-Jun-2017 19:43:44 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/comments.php on line 18
+[18-Jul-2017 23:32:30 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/footer.php on line 23
+[18-Jul-2017 23:32:30 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/a312sites/public_html/hegewischdentist.com/wp-content/themes/twentyfifteen/comments.php on line 18
